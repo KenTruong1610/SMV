@@ -1,0 +1,4 @@
+﻿Column Name,Description
+country,Name of the country
+gdpp,The GDP per capita. Calculated as the Total GDP divided by the total population.
+expand,Đánh giá GDP của quốc gia đó
